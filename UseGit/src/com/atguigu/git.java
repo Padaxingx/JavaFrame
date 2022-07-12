@@ -10,5 +10,6 @@ public class git {
         System.out.println("hello world two");
         System.out.println("hello world three");
         System.out.println("this message is form master");
+        System.out.println("this message is from hot-fix");
     }
 }

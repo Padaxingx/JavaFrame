@@ -6,6 +6,6 @@ package com.atguigu;
  */
 public class GitThird {
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("this is the message from GitHub");
     }
 }
